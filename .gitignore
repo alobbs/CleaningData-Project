@@ -13,3 +13,5 @@
 UCI\ HAR\ Dataset
 tidy.txt
 
+# Emacs' backup files
+*~
